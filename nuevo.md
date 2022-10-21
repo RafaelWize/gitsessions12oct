@@ -8,3 +8,4 @@ cambios remotos
 cambio stash
 git conflictos
 git cosas nuevas
+primer cambio para rebase
