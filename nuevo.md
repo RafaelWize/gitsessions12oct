@@ -5,3 +5,4 @@ cambio desde main (github) -- pull
 JC Tirado
 cambios locales
 cambios remotos
+cambio stash
