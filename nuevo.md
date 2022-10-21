@@ -6,3 +6,4 @@ JC Tirado
 cambios locales
 cambios remotos
 cambio stash
+git conflictos
