@@ -7,3 +7,4 @@ cambios locales
 cambios remotos
 cambio stash
 git conflictos
+git cosas nuevas
